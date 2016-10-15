@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sentiment App</string>
+    <string name="main_text">This is not a nice car</string>
+    <string name="editText_description">Enter your Sentiment Statement</string>
+    <string name="button_text">Analyze</string>
+    <string name="top_text">The sentiment is : </string>
+    <string name="activity_description">Press the analyze button to identify the sentiment of the text</string>
+    <string name="activity_title">Sentiment Identification</string>
+</resources>
